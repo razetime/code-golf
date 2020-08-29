@@ -3,6 +3,7 @@ interpreter.py
 dzaima-APL.jar
 Vyxal-0.1.1
 *.jpg
+*.eps
 *.png
 mawpinter.py
 prcsng/theme.txt
