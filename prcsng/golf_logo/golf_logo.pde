@@ -1,0 +1,20 @@
+size(300,300);
+int r=6;
+fill(0);
+textSize(6.5*r);
+text("{ }",0,6*r);
+textSize(4*r);
+text("CODE GOLF",7*r,4*r);
+textSize(12);
+text("& coding  challenges",8*r,7*r-3);
+beginShape();
+vertex
+endShape();
+fill(#F7CC46);
+ellipseMode(CENTER); 
+strokeWeight(1);
+stroke(#F7CC46);
+circle(r*3+1,r*5,3*r-4);
+stroke(#C1C1C1);
+strokeWeight(1);
+circle(r*3+1,r*5,1.5*r);

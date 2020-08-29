@@ -1,0 +1,1 @@
+int b=160,c=40;void setup(){size(600,600);stroke(0);}void draw(){background(255);fill(255);circle(b-40,c,80);circle(b+40,c,80);float x=map(mouseX,0,600,b-60,b-20);float y=map(mouseY,0,600,c-20,c+20);float a=map(mouseX,0,600,b+20,b+60);circle(x,y,20);circle(a,y,20);}void mouseClicked(){b=mouseX;c=mouseY;}

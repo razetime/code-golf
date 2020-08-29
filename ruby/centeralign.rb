@@ -1,0 +1,1 @@
+->t{(s=t.split$/).map{|l|l.rjust(s.map(&:size).max/2.ceil)}}

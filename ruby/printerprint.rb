@@ -1,0 +1,1 @@
+File.write(?l,"Hello, World!", mode:?w);system("lp",?l)

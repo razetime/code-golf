@@ -1,0 +1,1 @@
+p gets("\t\n").gsub(/\s+/, '').length

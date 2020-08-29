@@ -1,0 +1,13 @@
+background(-1);
+size(32,32);
+fill(0);
+circle(15,5,6);
+circle(25,15,6);
+circle(5,25,6);
+circle(15,25,6);
+circle(25,25,6);
+noFill();
+square(0,0,30);
+rect(10,0,10,30);
+rect(0,10,30,10);
+save("hacker.png");
