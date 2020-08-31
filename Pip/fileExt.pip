@@ -1,0 +1,3 @@
+; Get file extension
+; https://codegolf.stackexchange.com/questions/120925/whats-the-file-extension
+@RV(q^".")

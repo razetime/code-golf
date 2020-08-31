@@ -1,0 +1,6 @@
+; computes average of codepoints of the substrings of length n of an ASCII string
+; Prints them as ASCII
+; For some reason the owner deleted it.
+Fi,#a+1{Fj,#a+1{IABi-j=b{
+P(C$+A*((a@<i)@>j)//AB(i-j))
+}}}

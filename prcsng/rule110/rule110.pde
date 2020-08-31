@@ -24,9 +24,12 @@ noStroke();
 
 for(int j=1;j<a.length;j++) {
   for(int k=0;k<a.length;k++) {
+    print(a[j][k]);
     if(a[j][k]==1){fill(k,j,k);
-    rect(k*4,j*5,4,5);}
+    rect(k*4,j*5,4,5);
+    }
   }
+  print('\n');
   
 }
 save("rule110.png");

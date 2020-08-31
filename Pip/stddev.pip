@@ -1,0 +1,4 @@
+; Standard Deviation
+; https://codegolf.stackexchange.com/questions/60901/calculate-standard-deviation?page=2&tab=oldest#tab-top
+Flai+:(((l-$+a)/#a)**2)/#a
+PRTi
