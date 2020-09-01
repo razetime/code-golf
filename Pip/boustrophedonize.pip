@@ -1,0 +1,7 @@
+; Boustrophedonize (reverse every other line)
+; https://codegolf.stackexchange.com/questions/150117/boustrophedonise?page=2&tab=oldest#tab-top
+
+FlgPo:!o?lRVl
+
+; Original program
+Fi,#gPi%2?RVg@ig@i
