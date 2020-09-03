@@ -1,0 +1,5 @@
+; Polygamma function implementation
+; Idk if it works, freezes tio
+; https://codegolf.stackexchange.com/questions/210425/implement-the-polygamma-function
+
+$+(($*\,a)/((-(b+,10**6))**(1+a)))
