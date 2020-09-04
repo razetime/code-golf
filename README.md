@@ -1,5 +1,8 @@
 # code-golf
-All my code golf answers from Stack Exchange and other sites(TopAnswers, Reddit, etc.)
+All my non-trivial code golf answers from Stack Exchange and other sites since the end of August 2020.(TopAnswers, Reddit, etc.)
+Basically, whichever ones that took a good amount of effort from my end to make.
+I might've missed a few here and there.
+
 
 # Organization
 Most of this repo is organized by language.
