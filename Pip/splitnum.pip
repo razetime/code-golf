@@ -1,0 +1,8 @@
+; Split a number in every possible way
+; Probably my most interesting solution
+; https://codegolf.stackexchange.com/questions/210321/split-a-number-in-every-possible-way/210322#210322
+
+
+Ya
+; UQ({y=aRMs?[a||s]x}M(PMaJs)||sRws)
+UQ({(a|>0)RMx}M({y=aRMs?a^sx}M(PMaJs)))RMx

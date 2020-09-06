@@ -1,0 +1,4 @@
+; ASCII chessboard pattern maker
+; https://codegolf.stackexchange.com/questions/1285/chessboard-pattern/210634#210634
+
+Y"X "XaFi,aP(i%2?RVyy)@<a

@@ -1,0 +1,5 @@
+⍝ For finding valid dates and times from substrings of a year
+⍝ Incomplete
+⍝ https://codegolf.stackexchange.com/questions/150084/days-and-months-make-years
+
+{(@a<32&a@1<13&@a>0&a@1>0)?(aJ'/)u}MUQ({#a=4?a<>2s}MPMa)
