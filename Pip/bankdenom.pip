@@ -1,0 +1,5 @@
+; Finds the first currency denomination lesser than the input.
+; https://codegolf.stackexchange.com/questions/210671/find-the-largest-banknote?noredirect=1#comment496428_210671
+
+
+@(_<=aFI[5 2o]*t**(#a-1))

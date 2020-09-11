@@ -1,0 +1,3 @@
+Lego piece drawing program
+
+¿⁼η⁼θ¹o≔⁺³×θ²κＵＲκ⁺²ηＰ×κ_Ｍ⁺η¹↓Ｐκ↗Ｆη«Ｐ×θ o↑

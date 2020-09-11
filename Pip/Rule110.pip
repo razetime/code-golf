@@ -1,0 +1,16 @@
+; Rule 110 in Pip
+; This took a while lol
+; https://codegolf.stackexchange.com/questions/34505/simulate-rule-110/34507#34507
+
+x:Y0X40RAgoL40{Fi,40x@i:01110110@FB(y@>i@<3)Y0.xPxR0s}
+
+x:Y0X40RAgoL40{Fi,40x@i:01110110@FB(y@>i@<3)Y0.xPxR0s} 
+x:Y0X40RAgo                                             Assign 40 spaces to x and replace the input indices with 1
+                                                        The same value is also yanked to y.
+           L40{                                      }  Repeat 40 times 
+               Fi,40                                    Loop variable i through range 1-40
+                    x@i:                                Assign character at index i to:
+                        01110110@                       a number in 01110110 at index:
+                                 FB(y@>i@<3)            a 3 letter substring of y starting at i, converted to binary.
+                                            Y0.x        Yank(assign value) of 0 concantenated with x to y
+                                                PxR0s   Print x with zeros replaced with spaces
