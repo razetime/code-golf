@@ -1,0 +1,14 @@
+; S(he) be(lie)ve(d) → sbeve
+; I knew I had to answer this one.
+; https://codegolf.stackexchange.com/questions/200744/the-sbeve-challenge/211100#211100
+
+@UW(aRMw^`[()]`)
+
+; Explanation
+@UW(aRMw^`[()]`) ; a → input 
+    aRMw         ; Remove all whitespace
+        ^`[()]`  ; Split on parentheses
+ UW              ; Unweave into two lists
+                 ; Each with alternating elements
+@                ; Take the first one
+                 ; Display implicitly
