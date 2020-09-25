@@ -1,8 +1,8 @@
 // Modified from the C language example from
 // https:// en.wikipedia.org/wiki/Midpoint_circle_algorithm
-int r = 70; //radius
-void setup() {
-  size(400, 400);
+int r = 50; //radius
+void settings() {
+  size(2*r+10, 2*r+10);
 }
  
 void draw() {
