@@ -1,10 +1,13 @@
 .DS_Store
 interpreter.py
 dzaima-APL.jar
-Vyxal-0.1.1
 *.jpg
 *.eps
 *.png
 epsfiles
 mawpinter.py
 prcsng/theme.txt
+*.stx
+*.lzma
+*.gz
+Vyxal
