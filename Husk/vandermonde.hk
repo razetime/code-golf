@@ -1,0 +1,16 @@
+ΠmF-Σ→½∂↔´Ṫe
+
+https://codegolf.stackexchange.com/questions/74789/vandermonde-determinant/212124#212124
+
+Takes upper triangle of carterian pairs and gets differences, then multiplies all of them
+
+Explanation
+ΠmF-Σ→½∂↔´Ṫe
+          Ṫe cartesian pairs of the array
+         ´   double: f x = f x x
+        ↔    reverse
+       ∂     take antidiagonals
+     →½      halve and take the last part (triangle)
+    Σ        concatenate into list of pairs
+ mF-         fold each pair by difference
+Π            multiply all values
