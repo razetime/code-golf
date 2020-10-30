@@ -3,17 +3,19 @@
 ⍝ https://codegolf.stackexchange.com/questions/37716/curve-stitching
 n←20
 p←20
-
 i←0
+⎕IO←0
 P5.size←2⍴n×p
 f←{r←⍵⋄{P5.G.ln(r×⍵) 0 0 (r×⍺-⍵)}¨⍳⍺} ⍝ Ungolfed function
 g←{P5.G.ln↓⍉↑(⍵×⍳⍺)⍬⍬(⍵×⍺-⍳⍺)}
+h←  ⍝ adam's version
+⍝ i←{P5.G.ln↓⍉↑⍵×(⍳⍺)⍬⍬(⍺-⍳⍺)} another one from aDam
 P5.setup←{
     ⍝ n f p
-    n g p
+    n h p
 }
 
-⍝←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
+⍝←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
 ⍝ Older, non-function versions:
 ⍝→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
 

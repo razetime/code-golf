@@ -1,0 +1,4 @@
+⍝ Based on the Ruby solution: https://tio.run/##jZJNT8MwDIbv/RUW49B2WxgcOFTaKsYBcRrigDRNE/LadEtpkyhJmSbgt484fJzGmA9t0trP69ey6Va7/b4aDyfyLQKIh1epZMw/EtaifnsX73AgeveOG3QcjNpaqIxqgQrBKfCviFLqsWC4snA0ejcrq5rOg16x6TioCkSofhnXEwn5KKuPVT/9FNXQaRKXGVTKwMN0PguYGE6I3o0ENAZ3RCo2aLDw7iyRWiHXoCSHRkgefaXHCzEZ5flDlk@X6Uv/IHEK1AWkEHsjdB4BWkCtjdJG@MEl3zBYBJ@B@Jjld1nOlmnsZ9i/HNZJgPceB3eEYIT7@UNmqT8ouHSGQymwVbL8pQbgLMvnvsXDpmfEnJ/QYpKewdk/E7xVsvAlklbCbfjBcQrpe0awztBQLddIG1TCagdWY8EtC4IJI0vcxNdkNflDUGMZhL5pnky3qmsa2IrSbUibvogW13wAWJZBNOiQT8n9waLZkehHen5xyp786ZK246hBybchh0UfUaQ755drsebOMqeexXK/v/4E
+⍝ Not yet complete
+
+{↑{j←|⍵⋄k←j×j<w⋄(k/1+⍵>0),((j-⍨1+2×w)/()×(j>w))}¨∪(-∘⌽,⊢)⍳1+2×w←⍵}

@@ -7,4 +7,4 @@ f←{w←⍵⋄2≤2÷⍨+/⍵=∊{⍵+3*⍨⍳w}¨3*⍨⍳⍵}
 f←{4≤+/⍵=∊∘.+/2⍴⊂3*⍨⍳⍵}
 
 ⍝  EVEN FURTHER REDUCTION from dzaima (works only in dzaima/APL)
-{4≤⍵⍧∘.+⍨3*⍨⍳⍵}
+{4≤⍵⍧∘.+⍨3*⍨⍳⍵} 
