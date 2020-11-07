@@ -1,0 +1,29 @@
+Find balanced mountains for a given n
+https://codegolf.stackexchange.com/questions/37922/draw-a-range-of-mountain-ranges
+
+¶mȯ¶↔T' §zoFz:,mömR' ∫Ẋo±+:_1†o!"/¦">0uf(Λ≥0∫)†?I←IPṘḋ2
+
+¶mȯ¶↔T' §zoFz:,mömR' ∫Ẋo±+:_1†o!"/¦">0uf(Λ≥0∫)†?I←IPṘḋ2
+`ḋ2` array [0,1]
+
+`Ṙ` repeat each \$n\$ times" `3 → [1,1,1,0,0,0]
+
+`†?I←I` decrement the zeroes
+
+`f(Λ≥0∫)` filter out the non-rages using cumulative sum
+
+`u` uniquify
+
+`§zoFz:,` apply the following two functions a & b to the above result and zip them together
+
+`mömR' ∫Ẋo±+:_1` Function a: convert unequal pairs to 0's and create the required amount of spaces
+
+`†o!"/¦">0` Function b: convert 1 to / and -1 to \
+
+These are now joined to create the mountains.
+
+`   ↔T' ` Transpose each mountain, filling with spaces then reverse
+
+`mȯ¶     ` join with newlines
+
+Each mountain is then auto-displayed with newlines.
