@@ -1,5 +1,28 @@
 ' Port this to APL
 
+Option Explicit
+
+' Only the first X bytes of the file are read into a byte array.
+' BUFFERSIZE is X.  A larger number will use more memory and
+' be slower.  A smaller number may not be able to decode all
+' JPEG files.  Feel free to play with this number.
+Private Const BUFFERSIZE As Long = 65535
+
+' image type enum
+Public Enum eImageType
+    itUNKNOWN = 0
+    itGIF = 1
+    itJPEG = 2
+    itPNG = 3
+    itBMP = 4
+End Enum
+
+' private member variables
+Private m_Width As Long
+Private m_Height As Long
+Private m_Depth As Byte
+Private m_ImageType As eImageType
+
 ' CImageInfo
 '
 ' Author: David Crowell
@@ -52,8 +75,8 @@ Public Sub ReadImageInfo(sFileName As String)
 	m_ImageType = itUNKNOWN
 	
 	' here we will load the first part of a file into a byte 
-'array the amount of the file stored here depends on 
-'the BUFFERSIZE constant
+	' array the amount of the file stored here depends on 
+	' the BUFFERSIZE constant
 	iFN = FreeFile
 	Open sFileName For Binary As iFN
 	Get #iFN, 1, bBuf()
@@ -160,9 +183,9 @@ Public Sub ReadImageInfo(sFileName As String)
 		
 		
 		Do
-' loop through the markers until we find the one 
-'starting with FF,C0 which is the block containing the 
-'image information
+			' loop through the markers until we find the one 
+			' starting with FF,C0 which is the block containing the 
+			' image information
 		
 			Do
 			' loop until we find the beginning of the next marker

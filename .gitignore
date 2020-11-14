@@ -11,3 +11,4 @@ prcsng/theme.txt
 *.lzma
 *.gz
 Vyxal
+.vscode/settings.json
