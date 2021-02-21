@@ -1,0 +1,18 @@
+Version with unlimited cells, tape extending on both sides, and negative integers.
+
+Yd                         "move input to Y register" d
+"+-,.[]<>"X|&              "remove non-commands" d
+
+"x{^}&"                    '+ d
+"x{v}&"                    '- d
+"x{yhyDYd}&"               ', d
+"cx@]p"                    '. d
+"{cx@!C"                   '[ d
+'W                         '] d
+"x{Z+}{xvXd}?"             '< d
+"c%vx={0+}Mx^Xd"           '> d
+8l                         "make array" d
+s{xIn@m:f                  "convert to stax code" d
+0Xd                        "set pointer" d
+zs                         "create the cell array" d
+l                           "execute" d
