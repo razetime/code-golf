@@ -1,0 +1,1 @@
+for(i=2;i<=2*readline();i+=2)putstr(i)

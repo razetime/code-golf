@@ -1,0 +1,12 @@
+Ranganathans-MacBook-Air:~ ranga$ Starting Nmap 7.91 ( https://nmap.org ) at 2021-02-28 18:44 IST
+Nmap scan report for discord.gg (162.159.134.234)
+Host is up (0.12s latency).
+Other addresses for discord.gg (not scanned): 162.159.130.234 162.159.136.234 162.159.133.234 162.159.135.234
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 20.28 seconds
