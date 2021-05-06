@@ -1,0 +1,5 @@
+"aD@ai0
+<esc>V{g<c-a>{dd}dkqqC<c-r>=!(<c-r>a%<c-r>")*<c-r>"
+<esc>k@qq@q:%s/\n/+
+$x0C<c-r>=<c-r>a/(<c-r>")
+

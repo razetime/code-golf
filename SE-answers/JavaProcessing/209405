@@ -1,0 +1,1 @@
+PImage p;void settings(){p=loadImage("peter-olexa-Ejgx4k3iryg-unsplash.jpg");size(p.width,p.height);}void setup(){p.loadPixels();p.pixels=sort(p.pixels);p.updatePixels();image(p,0,0);save("2.jpg");}

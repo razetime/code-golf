@@ -1,0 +1,1 @@
+: f 90 65 do i i 1+ i emit emit emit cr loop ;

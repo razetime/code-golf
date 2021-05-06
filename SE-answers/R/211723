@@ -1,0 +1,1 @@
+cat(intToUtf8((913:937)[-18]+32*!!length(commandArgs(T))))

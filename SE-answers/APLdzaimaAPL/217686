@@ -1,0 +1,1 @@
+{w←⍵⋄m←÷/(⊢/-⊃)p←⍸¯1≠⍵.mat⋄y x←⊃p⋄P5.size←⍵.sz⋄P5.setup←{P5.G.bg¯1⋄P5.G.ln∊{⍵,y+m×⍵-x}¨⍳101}}

@@ -1,0 +1,1 @@
+: e emit ; : b space dup 0 ?do 95 e loop cr 47 e dup spaces 92 e cr 124 e spaces 124 e ; 

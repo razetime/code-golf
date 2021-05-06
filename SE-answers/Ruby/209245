@@ -1,0 +1,1 @@
+->a{a.chars.permutation.map(&:join).reject{|x|/^0+/.match(x)||x==a}.detect{|n|a.to_i%n.to_i==0}}

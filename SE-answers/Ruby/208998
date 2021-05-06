@@ -1,0 +1,1 @@
+->a{a==a.transpose.map{|r|r.map{|c|-c}}}

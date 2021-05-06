@@ -1,0 +1,9 @@
+o<esc>qq15wlh0y15wO<esc>pj0d3w@qqdk@qqt:s/ /\r/g
+<c-o>:.,.4$sor n
+:.,.4j
+d3w$3bhd$:s/ /+/g
+C<c-r>=(<c-r>")/3
+<esc>k0@tq@t:%s/^\n
+:sor n
+{0C<c-r>=printf("%.2f",<c-r>")
+<esc>o<esc>d}

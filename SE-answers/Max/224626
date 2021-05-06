@@ -1,0 +1,5 @@
+{
+    name: "Max",
+    max: "max",
+    run:(max)=> Math.max(...max)
+}

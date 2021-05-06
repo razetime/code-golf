@@ -1,0 +1,5 @@
+{
+    name: "Honnold",
+    color: "#0000FF",
+    run:()=>dirTo(chars().sort((a,b)=>distTo(a.pos)-distTo(b.pos))[0].pos)
+}

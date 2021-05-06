@@ -1,0 +1,5 @@
+{
+name: "Camper",
+color: "#00FF00",
+run:_=>dirTo(chars().sort((a,b)=>dist("00",a.pos)-dist("00",b.pos))[0].pos)
+}

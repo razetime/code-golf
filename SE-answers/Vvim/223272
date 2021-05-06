@@ -1,0 +1,3 @@
+:s/-
+C<C-r>=strlen(<C-r>")
+<esc>

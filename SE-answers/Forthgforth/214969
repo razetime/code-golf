@@ -1,0 +1,1 @@
+: f dup 0 ?do i spaces 92 emit cr loop 1- for i spaces 47 emit cr next ;

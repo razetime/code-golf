@@ -1,0 +1,1 @@
+f←{x←⊃P5.size←⍵.sz⋄s←4⋄P5.setup←{0 0P5.G.img P5.img{r←x÷s×2÷x⍴(x÷s)⌿1¯1⋄2|2⍟s+←s:←⍵⌽⍨-r⋄⍉r⌽⍉⍵}⍣{s=x}⍵.mat}}

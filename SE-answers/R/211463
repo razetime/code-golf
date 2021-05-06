@@ -1,0 +1,1 @@
+(a=conf.design::primes(scan():1))[which(grepl(666,a))[1]]

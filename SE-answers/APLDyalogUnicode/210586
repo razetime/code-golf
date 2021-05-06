@@ -1,0 +1,1 @@
+{'('∊⎕←⍵.safe_title:-⍵⋄⍵.alt}⎕JSON∊⎕SH∊'curl -L xkcd.com/'⍞'/info.0.json'

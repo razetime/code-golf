@@ -1,0 +1,1 @@
+->n{(1..n/3).select{|k|n%k==0}.sum{|o|(1..o).select{|i|o%i==0}.sum{|j|j%2}}}

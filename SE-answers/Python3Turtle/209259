@@ -1,0 +1,13 @@
+from turtle import*
+a='#2e6f6e','#FAD028','#E44834'
+L=lt;F=fd;B=begin_fill;E=end_fill
+Z=0,1,2
+pu()
+ht()
+speed(0)
+for m in Z:L(120);F(30);L(60);F(30);L(60);[[[[color(a[j-m]),B(),[F(20)==L((5-i%2)*60)for i in(1,)+Z],E(),L(120)]for j in Z],k%2and[L(180),F(30),L(180)]or[L(300),F(30),L(60)]]for k in Z]
+L(120)
+F(30)
+L(60)
+F(10)
+for k in[2,1]:color(a[k]);B();[F(20)==L(240)for i in Z];E();L(60)

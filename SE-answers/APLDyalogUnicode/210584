@@ -1,0 +1,3 @@
+a←⍞
+y←(⎕JSON((⎕SE.SALT.New'HttpCommand').Get'https://api.stackexchange.com/users?site=codegolf&inname=',('\s+'⎕R'\%20')a).Data).items
+{a≡1⊃y.display_name:y.user_id ⋄ 0}1

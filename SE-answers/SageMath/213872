@@ -1,0 +1,1 @@
+lambda z:[lambert_w(l,z)for l in[0,-1]]

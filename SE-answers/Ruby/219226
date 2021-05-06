@@ -1,0 +1,1 @@
+->n{k=(1..n).map{rand};p=k[~-s=0]/z=k.sum;[k.map{|x|s+=p*x/z;p=x/z},s]}

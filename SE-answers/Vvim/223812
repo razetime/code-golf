@@ -1,0 +1,5 @@
+YpC<c-r>=strlen('<c-r>"')/2
+<esc>DkA <esc>0@"li
+<esc>$@"hi
+<Esc>:%!rev
+gJgJF x

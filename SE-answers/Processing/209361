@@ -1,0 +1,1 @@
+byte a[]=loadBytes("s.pde");noStroke();int x=0,y=0;for(int k=0;k<a.length%3;k++){append(a,byte(0));}for(int i=0;i<a.length-2;i+=3,x++){if(x>0){x=0;y+=1;}fill(a[i],a[i+1],a[i+2]);rect(x,y,1,1);}

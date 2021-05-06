@@ -1,0 +1,1 @@
+->a{a<31?"Cenozoic/"+(a<4?"Quaternary":(a<24?"Neogene":(a<67?"Paleogene":""))):a<253?"Mesozoic/"+(a<146?"Cretaceous":(a<202?"Jurassic":(a<253?"Triassic":""))):a<543?"Paleozoic/"+(a<300===a ?"Permian":(a<360 ?"Carboniferous":(a<420?"Devonian":(a<445===a ?"Silurian":(a<486 ?"Ordovician": (a<543?"Cambrian":"")))))):""}

@@ -1,0 +1,1 @@
+->a{s="";(o=a).chars{|n|(n==?S)?s=o:o=o.chars.each_slice((o.size*0.5).ceil).map(&:join).join(s)};o}

@@ -1,0 +1,1 @@
+: f begin dup 2 mod if 3 * 1+ else 2/ then dup dup 1 = until depth 1- ;

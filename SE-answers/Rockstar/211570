@@ -1,0 +1,9 @@
+Listen to B
+let B be-3
+X's-1
+say "╔"+"╦"*B+"╗"
+While B-X
+say "╠"+"╬"*B+"╣"
+let X be+1
+
+say "╚"+"╩"*B+"╝"

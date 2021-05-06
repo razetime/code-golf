@@ -1,0 +1,6 @@
+> Input
+> Input
+> "The hypotenuse of this right triangle is %.3f"
+>> 1⊿2
+>> 3%4
+>> Output 5

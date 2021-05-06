@@ -1,0 +1,5 @@
+{
+    name: "Rabbit",
+    color: "#FFC0CB",
+    run:_=>turn()%1e3?dirTo(chars()[0].pos):build(self().source)
+}

@@ -1,0 +1,3 @@
+i←P5.img p
+P5.size←2⍴a←⌊/s←i.sz
+P5.draw←{i P5.G.img⍨.5×a-s⋄i.save}

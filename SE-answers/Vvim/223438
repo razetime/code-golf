@@ -1,0 +1,5 @@
+YpC<c-r>=strlen('<c-r>"')
+<esc>jYp<c-x>"aDkk:s:\n:/
+C<c-r>=<c-r>"
+<esc>"bDkkqq@blha
+<esc>q@a@q

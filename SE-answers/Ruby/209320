@@ -1,0 +1,1 @@
+->s{(s=s.scan(/[a-z]+/i).map &:size).max_by{|y|s.count y}}

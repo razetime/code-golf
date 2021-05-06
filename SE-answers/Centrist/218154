@@ -1,0 +1,5 @@
+{
+    name: "Centrist",
+    color: "#666666",
+    run:_=>dirTo(center())
+}

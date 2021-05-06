@@ -1,0 +1,5 @@
+iMin<Esc>:r!echo $RANDOM
+C<c-r>=<c-r>"%10000
+<esc>:s/^0\n/ce
+:s/\d\+/ec
+kgJAraft

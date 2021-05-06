@@ -1,0 +1,1 @@
+: P 0 ?do 1 i for dup . i * j i - 1+ / next cr loop ;

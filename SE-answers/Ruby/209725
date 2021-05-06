@@ -1,0 +1,1 @@
+->a{v=a.to_s.reverse;v==a.to_s ? a:f[a+v.to_i]}

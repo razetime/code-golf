@@ -1,0 +1,1 @@
+: f 26. do i dup for dup 97 + emit next cr loop ;

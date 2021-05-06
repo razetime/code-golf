@@ -1,0 +1,1 @@
+: f begin time&date drop 12 = 0<> swap 25 = 0<> and until s" It's Christmas!" type ;

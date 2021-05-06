@@ -1,0 +1,2 @@
+: f 2dup 2dup > if * else swap / then dup . swap drop swap 1+ swap recurse ;
+1 1 f

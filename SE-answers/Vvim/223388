@@ -1,0 +1,6 @@
+:sort
+Go<c-r>=(line('$')-1)/2
+<esc>dd@"kk0vg_"ayGqq0C<c-r>=abs(<c-r>"-<c-r>a)
+<esc>k@qq@q:%s/\n/+
+$x0C<c-r>=<c-r>"
+<esc>

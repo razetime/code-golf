@@ -1,0 +1,1 @@
+->a{[a.size,a.upcase.bytes.map{|i|i-64}.sum].all? &:prime?}

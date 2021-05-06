@@ -1,0 +1,1 @@
+6 3⌷⎕XML{(⎕SE.SALT.New'HttpCommand'('GET'⍵)).Run.Data}'https://codegolf.stackexchange.com/posts/211205/body'

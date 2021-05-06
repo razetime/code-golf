@@ -1,0 +1,1 @@
+: f 1- 26. do dup i min spaces i 97 + emit cr loop ; 

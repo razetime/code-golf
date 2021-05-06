@@ -1,0 +1,1 @@
+IO.write(?l,"Hello, World!");`lpr<<?l`
