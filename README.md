@@ -1,5 +1,7 @@
 # My Code Golf answers
 
+[golflang-list.md](golflang-list.md) contains all the golfing langauges I've managed to document.
+
 Contains programs that I've posted on:
 - Code Golf Stack Exchange
 - Anarchy Golf (http://golf.shinh.org)
