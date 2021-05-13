@@ -170,3 +170,4 @@ Golflangs that make you go "hmm, what on earth should I put this under??"
 | majc | [https://github.com/midn1/majc](https://github.com/midn1/majc) | sort of made for golfing
 
 
+converted from markdown lists to tables using [this Stax script.](https://staxlang.xyz/#c=mDDc%22%2F[a-zA-Z%5Cd%5C-]%2B%3F%2F%3F%3F]%22%7CFc%7BEDNd%7D%7B%7D%3F%22+%7C+%22%2Bs%2B%27+%7Bi2%3D%7B%22+%7C+%22%7DM%7DR%22%7C+%22s%2B&i=-+[https%3A%2F%2Fgithub.com%2Fcyoce%2FJ-uby]%28https%3A%2F%2Fgithub.com%2Fcyoce%2FJ-uby%29+J+%2B+Ruby%3F%3F%0A)
