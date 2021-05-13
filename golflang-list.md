@@ -18,7 +18,7 @@
 | Sclipting | [http://esolangs.org/wiki/Sclipting](http://esolangs.org/wiki/Sclipting) | no custom codepage?!
 | GolfLang | [https://github.com/PhiNotPi/GolfLang](https://github.com/PhiNotPi/GolfLang) | kinda not stack based?
 | Minkolang | [http://esolangs.org/wiki/Minkolang](http://esolangs.org/wiki/Minkolang) | elendia's thing
-| zwYrVd | [https://codepen.io/programmer5000/pen/zwYrVd](https://codepen.io/programmer5000/pen/zwYrVd) | very unfinished
+| CGL | [https://codepen.io/programmer5000/pen/zwYrVd](https://codepen.io/programmer5000/pen/zwYrVd) | very unfinished
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
 | integral | [https://github.com/nph278/integral](https://github.com/nph278/integral) | another good codepage, unfinished
 | commata | [https://github.com/totallyhuman/commata](https://github.com/totallyhuman/commata)
@@ -52,7 +52,7 @@
 | Microscript-II | [https://github.com/SuperJedi224/Microscript-II](https://github.com/SuperJedi224/Microscript-II)
 | Gogh | [https://github.com/zachgates/Gogh](https://github.com/zachgates/Gogh) | simple, dead since 2016
 | yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, uses japanese symbols
-| master/ | [https://bitbucket.org/zacharyjtaylor/my-language/src/master/](https://bitbucket.org/zacharyjtaylor/my-language/src/master/) | math based, bad io
+| MY | [https://bitbucket.org/zacharyjtaylor/my-language/src/master/](https://bitbucket.org/zacharyjtaylor/my-language/src/master/) | math based, bad io
 | rotor-lang | [https://github.com/quartata/rotor-lang](https://github.com/quartata/rotor-lang) | multiple instruction sets
 | G* | [https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278](https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278) | deleted repo
 | Silicon | [https://github.com/m654z/Silicon](https://github.com/m654z/Silicon) | ascii, average
