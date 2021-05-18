@@ -56,6 +56,7 @@
 | rotor-lang | [https://github.com/quartata/rotor-lang](https://github.com/quartata/rotor-lang) | multiple instruction sets
 | G* | [https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278](https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278) | deleted repo
 | Silicon | [https://github.com/m654z/Silicon](https://github.com/m654z/Silicon) | ascii, average
+| IPOS/Charly | https://github.com/jisensee/charly | string manip, recent
 
 # Prefix
 
@@ -148,6 +149,7 @@ Have a specialization in formulating sequences and series.
 |------|------|---------
 | cQuents | [https://github.com/stestoltz/cQuents](https://github.com/stestoltz/cQuents)
 | oasis | [https://github.com/adriandmen/oasis](https://github.com/adriandmen/oasis)
+| OEIS-L | https://github.com/danflapjax/OEIS-L | I have no words.
 
 
 # miscs
