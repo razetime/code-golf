@@ -57,6 +57,7 @@
 | G* | [https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278](https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278) | deleted repo
 | Silicon | [https://github.com/m654z/Silicon](https://github.com/m654z/Silicon) | ascii, average
 | IPOS/Charly | https://github.com/jisensee/charly | string manip, recent
+| Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
 
 # Prefix
 
@@ -87,6 +88,7 @@
 | LI | [https://github.com/Steven-Hewitt/LI](https://github.com/Steven-Hewitt/LI) | ASCII, functional
 | Matricks | [https://github.com/duvallj/Matricks](https://github.com/duvallj/Matricks) | matrix based, semi golfy
 | tinyall | [https://github.com/ismael-miguel/tinyall](https://github.com/ismael-miguel/tinyall) | ascii only, very little implemented
+| Reality | https://github.com/Muhammad-Salman-Sheikh/Reality | ascii-only, exactly 5 builtins
 
 # Infix
 
