@@ -15,7 +15,8 @@ languages in this list are ordered frommost relevant as of the latest commit to 
 | GolfScript | [http://golfscript.com/](http://golfscript.com/) | the original.
 | Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | pretty good at dates
 | Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
-| yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, uses japanese symbols
+| yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, matrix oriented
+| 51AC8 | https://github.com/PyGamer0/51AC8 | newer entry, nascent, different syntax
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | - JS
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | , [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS again
