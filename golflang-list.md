@@ -12,25 +12,27 @@ languages in this list are ordered frommost relevant as of the latest commit to 
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
 | Gaia | [https://github.com/Glan9/Gaia](https://github.com/Glan9/Gaia) | kinda good
 | paradoc | [https://github.com/betaveros/paradoc](https://github.com/betaveros/paradoc) | CJam but better in a lot of ways, with verbose mode?? Pretty cool
+| CJam | https://sourceforge.net/p/cjam/wiki/Home/ | The cooler golfscript.
 | GolfScript | [http://golfscript.com/](http://golfscript.com/) | the original.
 | Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | pretty good at dates
 | Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
 | yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, matrix oriented
 | 51AC8 | https://github.com/PyGamer0/51AC8 | newer entry, nascent, different syntax
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | - JS
+| RProgN 2 | https://github.com/TehFlaminTaco/RProgN-2/ | strong at quines and strange syntax based constructs, unupdated since 2017
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | , [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS again
 | Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | ???
+| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | just..bonkers
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
-| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | just..bonkers
 | Milky-Way | [https://github.com/zachgates/Milky-Way](https://github.com/zachgates/Milky-Way)
 | ostrich-lang | [https://github.com/tckmn/ostrich-lang](https://github.com/tckmn/ostrich-lang)
 | Sclipting | [http://esolangs.org/wiki/Sclipting](http://esolangs.org/wiki/Sclipting) | no custom codepage?!
 | GolfLang | [https://github.com/PhiNotPi/GolfLang](https://github.com/PhiNotPi/GolfLang) | kinda not stack based?
 | Minkolang | [http://esolangs.org/wiki/Minkolang](http://esolangs.org/wiki/Minkolang) | elendia's thing
 | CGL | [https://codepen.io/programmer5000/pen/zwYrVd](https://codepen.io/programmer5000/pen/zwYrVd) | very unfinished
-| integral | [https://github.com/nph278/integral](https://github.com/nph278/integral) | another good codepage, unfinished
+| integral | [https://github.com/nph278/integral](https://github.com/nph278/integral) | another good codepage, unfinished and archived
 | commata | [https://github.com/totallyhuman/commata](https://github.com/totallyhuman/commata)
 | Tir | [https://github.com/ConorOBrien-Foxx/Tir](https://github.com/ConorOBrien-Foxx/Tir) | cool symbols, abandoned, variable width chars(see ESMin)
 | 2sable | [https://github.com/Adriandmen/2sable](https://github.com/Adriandmen/2sable) | - dead
@@ -174,6 +176,6 @@ Golflangs that make you go "hmm, what on earth should I put this under??"
 | golf-cpu | [https://github.com/orlp/golf-cpu](https://github.com/orlp/golf-cpu) | entire CPU vm made for golf
 | dimwit | [https://github.com/MCMastery/dimwit](https://github.com/MCMastery/dimwit) | unfinished matrix based lang?
 | majc | [https://github.com/midn1/majc](https://github.com/midn1/majc) | sort of made for golfing
-
+| tio-lang | https://github.com/tkellehe/tio-lang | can combine multiple language results to make a frakenstein like abomination
 
 converted from markdown lists to tables using [this Stax script.](https://staxlang.xyz/#c=mDDc%22%2F[a-zA-Z%5Cd%5C-]%2B%3F%2F%3F%3F]%22%7CFc%7BEDNd%7D%7B%7D%3F%22+%7C+%22%2Bs%2B%27+%7Bi2%3D%7B%22+%7C+%22%7DM%7DR%22%7C+%22s%2B&i=-+[https%3A%2F%2Fgithub.com%2Fcyoce%2FJ-uby]%28https%3A%2F%2Fgithub.com%2Fcyoce%2FJ-uby%29+J+%2B+Ruby%3F%3F%0A)

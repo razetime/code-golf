@@ -1,0 +1,23 @@
+/ woo pong
+/ Q & A for left
+/ P & L for right
+
+
+p2:p1:-15+h%2
+color:,"#FFF"
+key:"2"
+dim:w,h
+ball:-2+dim%2
+vel:-5 -1
+s2:s1:0
+
+tick: {ball::vel+0|dim&ball
+	   $[$[0>*ball;s2+::1;w<*ball;s1+::1;0];ball::-2+dim%2;0]
+       vel*::$[(h>*|ball)&0<*|ball;1;-1],1
+       vel*::$[&/(ball>(0;p1-5))&ball<(10;p1+30);-1;1],1
+	   vel*::$[&/(ball>(w-15;p2-5))&ball<(w;p2+30);-1;1],1
+}
+
+draw:{((;(;"#000"));(((0;p1);(w-5;p2));color;30 5#0);(ball;color;5 5#0);((w%4;0);;~,/'+text(),$s2);((-10+3*w%4;0);;~,/'+text(),$s1))}
+
+kd:{$[x=81;p1-::5;x=65;p1+::5;x=80;p2-::5;x=76;p2+::5;0]}
