@@ -73,7 +73,7 @@ languages in this list are ordered frommost relevant as of the latest commit to 
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | New Array language contender, similar to J
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
-| Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | - JS
+| Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
 | QBIC | [https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing](https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing) | - QBASIC!
 | shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | just ASCII shortened C
 | z80golf | [https://github.com/lynn/z80golf](https://github.com/lynn/z80golf) | assembly like, byte encoded
