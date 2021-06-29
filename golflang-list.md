@@ -1,4 +1,4 @@
-languages in this list are ordered frommost relevant as of the latest commit to least relevant, as per my discretion. It is recommended to explore a bit to fond a golfing language you like.
+languages in this list are ordered from most relevant as of the latest commit to least relevant, as per my discretion. It is recommended to explore a bit to find a golfing language you like.
 
 # Stack-based
 
@@ -6,7 +6,7 @@ languages in this list are ordered frommost relevant as of the latest commit to 
 |------|------|---------
 | 05AB1E | [https://github.com/Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) | the gold standard.
 | stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing
-| vyxal | [https://github.com/lyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags
+| vyxal | [https://github.com/lyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags, very cool. 
 | MATL | https://github.com/lmendo/MATL | ASCII-only, but very strong builtins. Heavily based on MATLAB.
 | PYKE | [https://github.com/muddyfish/PYKE](https://github.com/muddyfish/PYKE) | very strong contender, occasionally updated
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
