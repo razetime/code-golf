@@ -18,6 +18,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
 | yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, matrix oriented
 | 51AC8 | https://github.com/PyGamer0/51AC8 | newer entry, nascent, different syntax
+| WedgeScript | https://github.com/WedgeScript/WedgeScript | JS-based new contender, ASCII
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | - JS
 | RProgN 2 | https://github.com/TehFlaminTaco/RProgN-2/ | strong at quines and strange syntax based constructs, unupdated since 2017
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
