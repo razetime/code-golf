@@ -17,7 +17,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | pretty good at dates
 | Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
 | yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, matrix oriented
-| 51AC8 | https://github.com/PyGamer0/51AC8 | newer entry, nascent, different syntax
+| dinoux | https://github.com/PyGamer0/dinoux | 2020, formerly 51AC8, nascent, different syntax
 | WedgeScript | https://github.com/WedgeScript/WedgeScript | JS-based new contender, ASCII
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | - JS
 | RProgN 2 | https://github.com/TehFlaminTaco/RProgN-2/ | strong at quines and strange syntax based constructs, unupdated since 2017
@@ -71,7 +71,8 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | infinite lists, combinators, very concise
 | pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
 | Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | made with ascii art in mind, but very general purpose. mathematica connection
-| Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | New Array language contender, similar to J
+| Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | 2020, similar to J
+| hbl | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
