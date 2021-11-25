@@ -17,11 +17,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | pretty good at dates
 | Neim | https://github.com/okx-code/Neim | very strong with integers, many single byte integer constants
 | yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | newer entry, matrix oriented
-<<<<<<< HEAD
-| dinoux | https://github.com/PyGamer0/dinoux | 2020, formerly 51AC8, nascent, different syntax
-=======
 | dinoux | https://github.com/PyGamer0/dinoux | newer entry, similar to other langs, half-pacticalish.
->>>>>>> 24f7e66d731e6353a9b6d40405b99d588f7e5c18
 | WedgeScript | https://github.com/WedgeScript/WedgeScript | JS-based new contender, ASCII
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | - JS
 | RProgN 2 | https://github.com/TehFlaminTaco/RProgN-2/ | strong at quines and strange syntax based constructs, unupdated since 2017
