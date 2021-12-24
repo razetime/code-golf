@@ -124,6 +124,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 |------|------|---------
 | Tellurium | [http://m654z.github.io/Tellurium/](http://m654z.github.io/Tellurium/) | bit more advanced bf, low builtin count
 | ShadyAsFuck | [https://esolangs.org/wiki/ShadyAsFuck](https://esolangs.org/wiki/ShadyAsFuck) | bf reduction to shorten char count
+| PyPOL | https://github.com/GingerIndustries/PyPOL | Polish notation based language, incomplete
 
 # Pattern match
 
