@@ -71,7 +71,8 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | infinite lists, combinators, very concise
 | pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
 | Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | made with ascii art in mind, but very general purpose. mathematica connection
-| Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | 2020, similar to J
+| Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | created in 2020, similar to J
+| minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | hbl | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
