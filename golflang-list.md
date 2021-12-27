@@ -74,6 +74,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | created in 2020, similar to J
 | minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | hbl | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
+| nibbles | https://nibbles.golf/ | 2021, new prefix bit based golfing language, pure ascii, currently in beta.
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
