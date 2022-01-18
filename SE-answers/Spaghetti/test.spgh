@@ -1,0 +1,7 @@
+main:
+1 "n" goto store
+3
+"n" goto retrieve
+2 goto modulus
+1 goto print
+goto EOF
