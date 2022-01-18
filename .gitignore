@@ -10,4 +10,4 @@ prcsng/theme.txt
 *.stx
 *.lzma
 *.gz
-.vscode/settings.json
+.vscode/
