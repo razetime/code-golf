@@ -1,4 +1,0 @@
-; 1, 2, Fizz, 4, Buzz
-; https://codegolf.stackexchange.com/questions/58615/1-2-fizz-4-buzz
-
-main:0"n"goto store goto l l:100"n"goto retrieve goto areEqual"EOF"goto jumpIfTrue"n"goto retrieve 1 2 goto add"n"goto store 15"n"goto retrieve 2 goto modulus 0 goto areEqual"f"goto jumpIfTrue 3"n"goto retrieve 2 goto modulus 0 goto areNotEqual"b"goto jumpIfTrue"Fizz"1 goto print goto b t:3"n"goto retrieve 2 goto modulus 0 goto areEqual"l"goto jumpIfTrue"n"goto retrieve 1 goto print goto l b:5"n"goto retrieve 2 goto modulus 0 goto areNotEqual"t"goto jumpIfTrue"Buzz"1 goto print goto l f:"FizzBuzz"1 goto print goto l
