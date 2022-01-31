@@ -11,7 +11,7 @@ Contains programs that I've posted on:
 - https://code.golf
 - Codidact (https://codegolf.codidact.org)
 
-**WARNING:** My Anarchy Golf and code.golf are spoilers for those puzzles. Avoid seeing them if you really want to solve them.
+**WARNING:** My Anarchy Golf and code.golf are spoilers for those puzzles often with multiple versions. Avoid seeing them if you really want to solve them.
 
 These may be answers, reference implementations for questions, or just programs made for fun.
 
