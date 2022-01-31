@@ -75,12 +75,13 @@ languages in this list are ordered from most relevant as of the latest commit to
 | minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | hbl | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
 | nibbles | https://nibbles.golf/ | 2021, new prefix bit based golfing language, pure ascii, currently in beta.
-| Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
-| Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
+| Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | very small mathematica
+| Stratos | https://github.com/okx-code/Stratos | URL related, multiline?
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
 | QBIC | [https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing](https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing) | - QBASIC!
 | shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | just ASCII shortened C
 | z80golf | [https://github.com/lynn/z80golf](https://github.com/lynn/z80golf) | assembly like, byte encoded
+| Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
 | atLang | [https://github.com/gemdude46/atLang](https://github.com/gemdude46/atLang) | functional!
 | Catholicon | [https://github.com/okx-code/Catholicon](https://github.com/okx-code/Catholicon) | another functional language! And surprisingly fleshed out!
 | SlimSharp | [https://github.com/jcoehoorn/SlimSharp](https://github.com/jcoehoorn/SlimSharp) | C# but small
