@@ -6,7 +6,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 |------|------|---------
 | 05AB1E | [https://github.com/Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) | the gold standard.
 | stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing
-| vyxal | [https://github.com/lyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags, very cool. 
+| vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags, very cool. 
 | MATL | https://github.com/lmendo/MATL | ASCII-only, but very strong builtins. Heavily based on MATLAB.
 | PYKE | [https://github.com/muddyfish/PYKE](https://github.com/muddyfish/PYKE) | very strong contender, occasionally updated
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
@@ -28,7 +28,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
 | Milky-Way | [https://github.com/zachgates/Milky-Way](https://github.com/zachgates/Milky-Way)
-| ostrich-lang | [https://github.com/tckmn/ostrich-lang](https://github.com/tckmn/ostrich-lang)
+| Ostrich | [https://github.com/tckmn/ostrich-lang](https://github.com/tckmn/ostrich-lang)
 | Sclipting | [http://esolangs.org/wiki/Sclipting](http://esolangs.org/wiki/Sclipting) | no custom codepage?!
 | GolfLang | [https://github.com/PhiNotPi/GolfLang](https://github.com/PhiNotPi/GolfLang) | kinda not stack based?
 | Minkolang | [http://esolangs.org/wiki/Minkolang](http://esolangs.org/wiki/Minkolang) | elendia's thing
@@ -69,14 +69,15 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Name | Link | comments
 |------|------|---------
 | Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | infinite lists, combinators, very concise
-| pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
+| Pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
 | Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | made with ascii art in mind, but very general purpose. mathematica connection
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | created in 2020, similar to J
-| minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
-| hbl | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
-| nibbles | https://nibbles.golf/ | 2021, new prefix bit based golfing language, pure ascii, currently in beta.
-| Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | very small mathematica
-| Stratos | https://github.com/okx-code/Stratos | URL related, multiline?
+| Minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
+| HBL | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
+| Nibbles | https://nibbles.golf/ | 2021, new prefix bit based golfing language, pure ascii, currently in beta.
+| Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
+| Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
+>>>>>>> 6e5ba74616608cf7e9bf674aad38a0bbaa8d1179
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
 | QBIC | [https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing](https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing) | - QBASIC!
 | shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | just ASCII shortened C
@@ -110,7 +111,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Risky | https://github.com/RedwolfPrograms/risky | semi-golflang newcomer, with a novel tacit programming approach
 | Floroid | [https://github.com/Yytsi/Floroid](https://github.com/Yytsi/Floroid) | - Python shortened
 | RAD | [https://bitbucket.org/zacharyjtaylor/rad/src/master/](https://bitbucket.org/zacharyjtaylor/rad/src/master/) | Rankless APL
-| arcyou | [https://github.com/nazek42/arcyou](https://github.com/nazek42/arcyou) | Lisp like
+| Arcyóu | [https://github.com/nazek42/arcyou](https://github.com/nazek42/arcyou) | Lisp like
 | TeaScript | [https://github.com/vihanb/TeaScript](https://github.com/vihanb/TeaScript) | JS inspired, not as golfy as japt
 | ESMin | [http://molarmanful.github.io/ESMin](http://molarmanful.github.io/ESMin) | many amazing ideas, but unmaintained
 | Joe | [https://github.com/JaniM/Joe](https://github.com/JaniM/Joe)
@@ -134,7 +135,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Name | Link | comments
 |------|------|---------
 | PMA/Snails | [https://github.com/feresum/PMA](https://github.com/feresum/PMA) | Regex like matching on 2D areas
-| The-Language | [https://github.com/m-ender/retina/wiki/The-Language](https://github.com/m-ender/retina/wiki/The-Language) | regex goodness
+| Retina | [https://github.com/m-ender/retina/wiki/The-Language](https://github.com/m-ender/retina/wiki/The-Language) | regex goodness
 | rs | [https://github.com/refi64/rs](https://github.com/refi64/rs) | sed but better
 | grime | [https://github.com/iatorm/grime](https://github.com/iatorm/grime) | 2D pattern matching
 | Slip | [https://github.com/Sp3000/Slip](https://github.com/Sp3000/Slip) | 2D regex
@@ -147,8 +148,8 @@ languages in this list are ordered from most relevant as of the latest commit to
 
 | Name | Link | comments
 |------|------|---------
-| Turtl-d | [https://github.com/Destructible-Watermelon/Turtl-d](https://github.com/Destructible-Watermelon/Turtl-d)
-| noodel/ | [https://tkellehe.github.io/noodel/](https://tkellehe.github.io/noodel/) | ASCII-art animation! (stack based)
+| Turtlèd | [https://github.com/Destructible-Watermelon/Turtl-d](https://github.com/Destructible-Watermelon/Turtl-d)
+| Noodel | [https://tkellehe.github.io/noodel/](https://tkellehe.github.io/noodel/) | ASCII-art animation! (stack based)
 | Canvas | [https://dzaima.github.io/Canvas/?dev](https://dzaima.github.io/Canvas/?dev)
 | V | [https://github.com/DJMcMayhem/V](https://github.com/DJMcMayhem/V) | Vim but basically better
 | autovim | [https://github.com/christianrondeau/autovim](https://github.com/christianrondeau/autovim) | VimScript but better
