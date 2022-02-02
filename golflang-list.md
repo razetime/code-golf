@@ -77,7 +77,6 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Nibbles | https://nibbles.golf/ | 2021, new prefix bit based golfing language, pure ascii, currently in beta.
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | even smaller mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
->>>>>>> 6e5ba74616608cf7e9bf674aad38a0bbaa8d1179
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
 | QBIC | [https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing](https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing) | - QBASIC!
 | shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | just ASCII shortened C
