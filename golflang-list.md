@@ -1,6 +1,6 @@
 languages in this list are ordered from most relevant as of the latest commit to least relevant, as per my discretion. It is recommended to explore a bit to find a golfing language you like.
 
-# Stack-based
+# Postfix
 
 | Name | Link | comments
 |------|------|---------
@@ -24,6 +24,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | , [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS again
 | Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | ???
+| Clip | https://esolangs.org/wiki/Clip | CJam inspired, functional, ascii,  no stack.
 | Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | just..bonkers
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
@@ -134,11 +135,11 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Name | Link | comments
 |------|------|---------
 | PMA/Snails | [https://github.com/feresum/PMA](https://github.com/feresum/PMA) | Regex like matching on 2D areas
-| Retina | [https://github.com/m-ender/retina/wiki/The-Language](https://github.com/m-ender/retina/wiki/The-Language) | regex goodness
-| rs | [https://github.com/refi64/rs](https://github.com/refi64/rs) | sed but better
+| Retina | [https://github.com/m-ender/retina/wiki/The-Language](https://github.com/m-ender/retina/wiki/The-Language) | .NET regex with iteration and more
+| rs | [https://github.com/refi64/rs](https://github.com/refi64/rs) | sed but with more features
 | grime | [https://github.com/iatorm/grime](https://github.com/iatorm/grime) | 2D pattern matching
 | Slip | [https://github.com/Sp3000/Slip](https://github.com/Sp3000/Slip) | 2D regex
-| SnakeEx | [http://www.brianmacintosh.com/snakeex/spec.html](http://www.brianmacintosh.com/snakeex/spec.html) | another 2D regex type
+| SnakeEx | [http://www.brianmacintosh.com/snakeex/spec.html](http://www.brianmacintosh.com/snakeex/spec.html) | 2D regex matching
 | s-lang | [https://github.com/MCMastery/s-lang](https://github.com/MCMastery/s-lang) | regex like string manipulation
 | spider | [https://github.com/MCMastery/spider](https://github.com/MCMastery/spider) | similar to above
 | Unnamed-String-Manipulation-Language | [https://github.com/MarkSill/Unnamed-String-Manipulation-Language](https://github.com/MarkSill/Unnamed-String-Manipulation-Language) | pretty ok
@@ -149,9 +150,11 @@ languages in this list are ordered from most relevant as of the latest commit to
 |------|------|---------
 | Turtlèd | [https://github.com/Destructible-Watermelon/Turtl-d](https://github.com/Destructible-Watermelon/Turtl-d)
 | Noodel | [https://tkellehe.github.io/noodel/](https://tkellehe.github.io/noodel/) | ASCII-art animation! (stack based)
-| Canvas | [https://dzaima.github.io/Canvas/?dev](https://dzaima.github.io/Canvas/?dev)
-| V | [https://github.com/DJMcMayhem/V](https://github.com/DJMcMayhem/V) | Vim but basically better
+| Canvas | [https://dzaima.github.io/Canvas/?dev](https://dzaima.github.io/Canvas/?dev) | ascii art joins and overlaps
+| V | [https://github.com/DJMcMayhem/V](https://github.com/DJMcMayhem/V) | Vim but more commands in latin1
 | autovim | [https://github.com/christianrondeau/autovim](https://github.com/christianrondeau/autovim) | VimScript but better
+| Compress | https://github.com/Maltysen/Compress | lookup tables with low boilerplate
+| Bubblegum | https://esolangs.org/wiki/Bubblegum | Partly a joke, python compressed / DEFLATE / LZMA 2
 
 # Sequences
 
