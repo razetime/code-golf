@@ -24,7 +24,6 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | , [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS again
 | Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | ???
-| Clip | https://esolangs.org/wiki/Clip | CJam inspired, functional, ascii,  no stack.
 | Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | just..bonkers
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
@@ -99,6 +98,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Matricks | [https://github.com/duvallj/Matricks](https://github.com/duvallj/Matricks) | matrix based, semi golfy
 | tinyall | [https://github.com/ismael-miguel/tinyall](https://github.com/ismael-miguel/tinyall) | ascii only, very little implemented
 | Reality | https://github.com/Muhammad-Salman-Sheikh/Reality | ascii-only, exactly 5 builtins
+| Clip | https://esolangs.org/wiki/Clip | CJam inspired, functional, ascii,  no stack.
 
 # Infix
 
