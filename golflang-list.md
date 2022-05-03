@@ -64,6 +64,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | G* | [https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278](https://codegolf.stackexchange.com/questions/55422/hello-world/60278#60278) | deleted repo
 | Silicon | [https://github.com/m654z/Silicon](https://github.com/m654z/Silicon) | ascii, average
 | IPOS/Charly | https://github.com/jisensee/charly | string manip, recent
+| XJam | https://github.com/Eiim/XJam | Built on top of CJam, extended with more functionality, xkcd based
 
 # Prefix
 
