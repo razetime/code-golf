@@ -107,6 +107,8 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Jelly | [https://github.com/DennisMitchell/jellylanguage/](https://github.com/DennisMitchell/jellylanguage/) | The gold standard.
 | Brachylog | [https://github.com/JCumin/Brachylog](https://github.com/JCumin/Brachylog) | very strong at decision problems, predicate based
 | Japt | [https://github.com/ETHproductions/japt](https://github.com/ETHproductions/japt) | - JS shortened
+| flax | https://github.com/PyGamer0/flax | similar to jelly , RtL, sane parser
+| Myby | https://github.com/ConorOBrien-Foxx/Myby | combines ideas from J and Nibbles
 | m | [https://github.com/DennisMitchell/m](https://github.com/DennisMitchell/m) | Jelly but symbolically oriented, highly outdated
 | Pip | [https://dloscutoff.github.io/pip/](https://dloscutoff.github.io/pip/) | - Strange amalgamation, easy, ASCII-only
 | Risky | https://github.com/RedwolfPrograms/risky | semi-golflang newcomer, with a novel tacit programming approach
