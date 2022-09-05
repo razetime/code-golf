@@ -72,6 +72,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | infinite lists, combinators, very concise
 | Pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
 | Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | made with ascii art in mind, but very general purpose. mathematica connection
+| Fig | https://github.com/Seggan/Fig | Newcomer, fractional bytes, full ascii
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | created in 2020, similar to J
 | Minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | HBL | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
@@ -165,8 +166,9 @@ Have a specialization in formulating sequences and series.
 
 | Name | Link | comments
 |------|------|---------
-| cQuents | [https://github.com/stestoltz/cQuents](https://github.com/stestoltz/cQuents)
-| oasis | [https://github.com/adriandmen/oasis](https://github.com/adriandmen/oasis)
+| cQuents | [https://github.com/stestoltz/cQuents](https://github.com/stestoltz/cQuents) | very strong at simpler sequences, often recursive definitions. Fully ASCII.
+| NumLang | https://github.com/nayakrujul/numlang-9ee9/ | Many hardcoded sequences.
+| oasis | [https://github.com/adriandmen/oasis](https://github.com/adriandmen/oasis) | stack based, similar in nature to cquents, memoized.
 | OEIS-L | https://github.com/danflapjax/OEIS-L | I have no words.
 
 
