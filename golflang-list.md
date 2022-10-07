@@ -6,7 +6,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 |------|------|---------
 | 05AB1E | [https://github.com/Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) | the gold standard.
 | stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing
-| vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags, very cool. 
+| vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | newer entrant, strong flags, active maintenance
 | MATL | https://github.com/lmendo/MATL | ASCII-only, but very strong builtins. Heavily based on MATLAB.
 | PYKE | [https://github.com/muddyfish/PYKE](https://github.com/muddyfish/PYKE) | very strong contender, occasionally updated
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
@@ -23,8 +23,9 @@ languages in this list are ordered from most relevant as of the latest commit to
 | RProgN 2 | https://github.com/TehFlaminTaco/RProgN-2/ | strong at quines and strange syntax based constructs, unupdated since 2017
 | Jstx | [https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref](https://quantum64.github.io/Jstx/JstxGWT-1.0.3/JstxGWT.html?mode=ref) | - Java, compressed and verbose
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | , [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS again
-| Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | ???
-| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | just..bonkers
+| Thon | https://github.com/nayakrujul/thon | Newcomer stack language
+| Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | not very well documented. niche primitives
+| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | a very strange language.
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
 | Milky-Way | [https://github.com/zachgates/Milky-Way](https://github.com/zachgates/Milky-Way)
