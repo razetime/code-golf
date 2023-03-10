@@ -12,6 +12,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | good codepage, math builtins
 | Gaia | [https://github.com/Glan9/Gaia](https://github.com/Glan9/Gaia) | kinda good
 | paradoc | [https://github.com/betaveros/paradoc](https://github.com/betaveros/paradoc) | CJam but better in a lot of ways, with verbose mode?? Pretty cool
+| Lolph | https://replit.com/@monochromeninja/Lolph | New and WIP
 | CJam | https://sourceforge.net/p/cjam/wiki/Home/ | The cooler golfscript.
 | GolfScript | [http://golfscript.com/](http://golfscript.com/) | the original.
 | Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | pretty good at dates
