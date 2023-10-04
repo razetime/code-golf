@@ -1,6 +1,6 @@
 # My Code Golf answers
 
-[golflang-list.md](golflang-list.md) contains all the golfing langauges I've managed to document.
+[golflang-list.md](golflang-list.md) contains all the golfing languages I've managed to document.
 
 [anagol-tips.md](anagol-tips.md) is a bunch of tips i have for use in anarchy golf.
 
