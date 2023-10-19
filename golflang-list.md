@@ -4,20 +4,23 @@ languages in this list are ordered from most relevant as of the latest commit to
 
 | Name | Link | Comments
 |------|------|---------
-| 05AB1E | [https://github.com/Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) | Reliable, short, unmaintained. Extremely short even in 2023
-| stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing
-| vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | Actively maintained, many versions with drastic language changes, many users, flag abuse.
-| MATL | https://github.com/lmendo/MATL | ASCII-only, heavily based on MATLAB. Borrows obscure functions from the host language.
-| Thunno 2 | https://github.com/Thunno/Thunno2 | 2023, a basic unicode stack language. Incomplete documentation
+| 05AB1E | [https://github.com/Adriandmen/05AB1E](https://github.com/Adriandmen/05AB1E) | Reliable, short, foundational, unmaintained.
+| Vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | Actively maintained, many versions with varying features, many users, flag abuse.
+| Stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing, browser REPL.
+| MATL | https://github.com/lmendo/MATL | ASCII-only, heavily based on MATLAB. Borrows niche functions from the host language.
+| Thunno 2 | https://github.com/Thunno/Thunno2 | 2023, a basic unicode stack language. Incomplete tutoial
+| Nekomata | https://github.com/AlephAlpha/Nekomata | 2023, Brachylog inspired, REPL with symbol replacement, work in progress.
+| Itr | https://github.com/bsoelch/OneChar.js/blob/main/ItrLang.md | 2023, array language, matrices, rational and complex numbers
+| paradoc | [https://github.com/betaveros/paradoc](https://github.com/betaveros/paradoc) | verbose mode, CJam inspired, used in AOC.
+| CJam | https://sourceforge.net/p/cjam/wiki/Home/ | Golfscript upgrade, ASCII only, foundational.
+| GolfScript | [http://golfscript.com/](http://golfscript.com/) | First golfing language in memory, still competitive but requires ruby-related hacks. ASCII only.
+| Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | Strong datetime support
+| Neim | https://github.com/okx-code/Neim | many single byte integer constants
+| Sclipting | [http://esolangs.org/wiki/Sclipting](http://esolangs.org/wiki/Sclipting) | no custom codepage, chinese and hangul symbols.
+| yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | 2021, matrix oriented, abandoned
 | PYKE | [https://github.com/muddyfish/PYKE](https://github.com/muddyfish/PYKE) | occasionally updated, golfiness similar to Vyxal, 05AB1E
 | mathgolf | [https://github.com/maxbergmark/mathgolf](https://github.com/maxbergmark/mathgolf) | Well-chosen codepage, math builtins
 | Gaia | [https://github.com/Glan9/Gaia](https://github.com/Glan9/Gaia) | Generic stack language, good with recurrences
-| paradoc | [https://github.com/betaveros/paradoc](https://github.com/betaveros/paradoc) | verbose mode, CJam inspired, used in AOC.
-| CJam | https://sourceforge.net/p/cjam/wiki/Home/ | The cooler golfscript, ASCII only
-| GolfScript | [http://golfscript.com/](http://golfscript.com/) | first golfing language in memory, still competitive but hacky. ASCII only.
-| Ohm | [https://github.com/nickbclifford/Ohm](https://github.com/nickbclifford/Ohm) | Strong datetime support
-| Neim | https://github.com/okx-code/Neim | many single byte integer constants
-| yuno | [https://github.com/hyper-neutrino/yuno](https://github.com/hyper-neutrino/yuno) | 2021, matrix oriented, abandoned
 | dinoux/siacB | https://github.com/PyGamer0/dinoux | 2021, abandoned
 | WedgeScript | https://github.com/WedgeScript/WedgeScript | JS-based, ASCII
 | Par | [http://ypnypn.github.io/Par/](http://ypnypn.github.io/Par/) | JS-based
@@ -26,13 +29,12 @@ languages in this list are ordered from most relevant as of the latest commit to
 | PlatyPar | [https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ](https://rawgit.com/cyoce/Par/master/page.html?date=1l9hIZ) | [https://github.com/cyoce/PlatyPar](https://github.com/cyoce/PlatyPar) JS-based
 | Thon | https://github.com/nayakrujul/thon | Precursor to Thonnu 2, abandoned
 | Deorst | [https://github.com/cairdcoinheringaahing/Deorst](https://github.com/cairdcoinheringaahing/Deorst) | not well documented. niche primitives
-| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) | a very strange language.
-| Lolph | https://replit.com/@monochromeninja/Lolph | New and WIP
+| Vitsy | [https://esolangs.org/wiki/Vitsy](https://esolangs.org/wiki/Vitsy) 
+| Lolph | https://replit.com/@monochromeninja/Lolph | WIP
 | fuzzy octo guacamole | [https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter](https://codereview.stackexchange.com/questions/124736/fuzzy-octo-guacamole-interpreter) | Deleted, I think?
 | Micro | [https://esolangs.org/wiki/Micro](https://esolangs.org/wiki/Micro) | old and unmaintained
 | Milky-Way | [https://github.com/zachgates/Milky-Way](https://github.com/zachgates/Milky-Way) |
 | Ostrich | [https://github.com/tckmn/ostrich-lang](https://github.com/tckmn/ostrich-lang) |
-| Sclipting | [http://esolangs.org/wiki/Sclipting](http://esolangs.org/wiki/Sclipting) | no custom codepage, chinese and hangul symbols.
 | GolfLang | [https://github.com/PhiNotPi/GolfLang](https://github.com/PhiNotPi/GolfLang) | stack based in some ways.
 | Minkolang | [http://esolangs.org/wiki/Minkolang](http://esolangs.org/wiki/Minkolang) | elendia starman's language
 | CGL | [https://codepen.io/programmer5000/pen/zwYrVd](https://codepen.io/programmer5000/pen/zwYrVd) | unfinished
@@ -48,6 +50,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Samau | [https://github.com/AlephAlpha/Samau](https://github.com/AlephAlpha/Samau) | archived
 | Implicit | [https://github.com/aaronryank/Implicit](https://github.com/aaronryank/Implicit)
 | molecule | [https://github.com/midn1/molecule](https://github.com/midn1/molecule)
+| Pyt | https://github.com/mudkip201/pyt | 2018, unfinished
 | Unipants-Golfing-Language | [https://github.com/schas002/Unipants-Golfing-Language](https://github.com/schas002/Unipants-Golfing-Language) | ascii-only, barebones
 | Convex | [https://github.com/ZekNikZ/Convex](https://github.com/ZekNikZ/Convex) | CJam but with regex and better input
 | Frames | [https://github.com/zachgates/Gogh/wiki/Frames](https://github.com/zachgates/Gogh/wiki/Frames) | dead since 2016, standard codepage
@@ -72,25 +75,26 @@ languages in this list are ordered from most relevant as of the latest commit to
 
 | Name | Link | comments
 |------|------|---------
-| Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | infinite lists, combinators, functional programming
-| Pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, allows arbitrary python code
-| Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | made with ascii art in mind, but very general purpose. Has mathematica binfings
+| Husk | [https://github.com/barbuz/Husk](https://github.com/barbuz/Husk) | Infinite lists, combinators, functional programming
+| Nibbles | https://nibbles.golf/ | 2021, prefix bit based golfing language, pure ascii.
+| Charcoal | [https://github.com/somebody1234/Charcoal](https://github.com/somebody1234/Charcoal) | Made with ascii art in mind, but very general purpose. Has mathematica bindings
+| hgl | https://www.gitlab.com/wheatwizard/haskell-golfing-library | Haskell with prelude replaced
+| Pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, foundational, allows arbitrary python code
 | Fig | https://github.com/Seggan/Fig | 2021, fractional bytes, full ascii
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | 2020, similar to J
 | Minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | HBL | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
-| Nibbles | https://nibbles.golf/ | 2021, prefix bit based golfing language, pure ascii, currently in beta.
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | braille compressed mathematica
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
 | Jolf | [https://github.com/ConorOBrien-Foxx/Jolf/](https://github.com/ConorOBrien-Foxx/Jolf/) | Very short, underused and has graphical output
 | QBIC | [https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing](https://drive.google.com/drive/folders/0B0R1Jgqp8Gg4cVJCZkRkdEthZDQ?usp=sharing) | QBASIC, unmaintained
-| shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | just ASCII shortened C
+| shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC) | ASCII shortened C
 | z80golf | [https://github.com/lynn/z80golf](https://github.com/lynn/z80golf) | assembly like, byte encoded
 | Java-Golf | [https://github.com/GamrCorps/Java-Golf](https://github.com/GamrCorps/Java-Golf)
-| atLang | [https://github.com/gemdude46/atLang](https://github.com/gemdude46/atLang) | functional!
+| atLang | [https://github.com/gemdude46/atLang](https://github.com/gemdude46/atLang) | functional programming
 | Catholicon | [https://github.com/okx-code/Catholicon](https://github.com/okx-code/Catholicon) | complete, functional language
-| SlimSharp | [https://github.com/jcoehoorn/SlimSharp](https://github.com/jcoehoorn/SlimSharp) | C# but small
-| thumbgolf | [https://github.com/easyaspi314/thumbgolf](https://github.com/easyaspi314/thumbgolf) | ARM v2 Thumb but small
+| SlimSharp | [https://github.com/jcoehoorn/SlimSharp](https://github.com/jcoehoorn/SlimSharp) | C# based
+| thumbgolf | [https://github.com/easyaspi314/thumbgolf](https://github.com/easyaspi314/thumbgolf) | ARM v2 Thumb based
 | xsh | [https://github.com/2x-1/xsh](https://github.com/2x-1/xsh) | based on bash, no longer maintained
 | Sakura | https://codegolf.stackexchange.com/a/141561/80214 | repo deleted
 | A-Ray | [https://github.com/zijunm/A-Ray](https://github.com/zijunm/A-Ray) | java
@@ -99,30 +103,30 @@ languages in this list are ordered from most relevant as of the latest commit to
 | pylongolf2 | [https://github.com/midn1/pylongolf2](https://github.com/midn1/pylongolf2) | unmaintained
 | recursiva | [https://github.com/officialaimm/recursiva](https://github.com/officialaimm/recursiva) | jelly inspired, prefix and very recursive
 | LI | [https://github.com/Steven-Hewitt/LI](https://github.com/Steven-Hewitt/LI) | ASCII, functional
-| Matricks | [https://github.com/duvallj/Matricks](https://github.com/duvallj/Matricks) | matrix based, semi golfy
-| tinyall | [https://github.com/ismael-miguel/tinyall](https://github.com/ismael-miguel/tinyall) | ascii only, very little implemented
-| Reality | https://github.com/Muhammad-Salman-Sheikh/Reality | ascii-only, exactly 5 builtins
-| Clip | https://esolangs.org/wiki/Clip | CJam inspired, functional, ascii,  no stack.
+| Matricks | [https://github.com/duvallj/Matricks](https://github.com/duvallj/Matricks) | matrix based, semi golflang
+| tinyall | [https://github.com/ismael-miguel/tinyall](https://github.com/ismael-miguel/tinyall) | ascii only, incomplete
+| Reality | https://github.com/Muhammad-Salman-Sheikh/Reality | ascii-only, 5 builtins
+| Clip | https://esolangs.org/wiki/Clip | CJam inspired, functional, ascii, no stack.
 
 # Infix
 
 | Name | Link | comments
 |------|------|---------
-| Jelly | [https://github.com/DennisMitchell/jellylanguage/](https://github.com/DennisMitchell/jellylanguage/) | The gold standard.
-| Brachylog | [https://github.com/JCumin/Brachylog](https://github.com/JCumin/Brachylog) | very strong at decision problems, predicate based
-| Japt | [https://github.com/ETHproductions/japt](https://github.com/ETHproductions/japt) | - JS shortened
-| flax | https://github.com/PyGamer0/flax | similar to jelly , RtL, sane parser
+| Jelly | [https://github.com/DennisMitchell/jellylanguage/](https://github.com/DennisMitchell/jellylanguage/) | infix, no overloading, foundational.
+| Brachylog | [https://github.com/JCumin/Brachylog](https://github.com/JCumin/Brachylog) | Prolog semantics, predicate based
+| Japt | [https://github.com/ETHproductions/japt](https://github.com/ETHproductions/japt) | JS shortened, works with datetime, animations, and can use many hacks
+| flax | https://github.com/PyGamer0/flax | Similar to jelly, RtL, non-regex parser
 | Myby | https://github.com/ConorOBrien-Foxx/Myby | combines ideas from J and Nibbles
 | m | [https://github.com/DennisMitchell/m](https://github.com/DennisMitchell/m) | Jelly but symbolically oriented, highly outdated
-| Pip | [https://dloscutoff.github.io/pip/](https://dloscutoff.github.io/pip/) | - Strange amalgamation, easy, ASCII-only
-| Risky | https://github.com/RedwolfPrograms/risky | semi-golflang newcomer, with a novel tacit programming approach
-| Floroid | [https://github.com/Yytsi/Floroid](https://github.com/Yytsi/Floroid) | - Python shortened
+| Pip | [https://dloscutoff.github.io/pip/](https://dloscutoff.github.io/pip/) | operator precedence, ASCII-only
+| Risky | https://github.com/RedwolfPrograms/risky | semi-golflang, unique tacit programming approach
+| Floroid | [https://github.com/Yytsi/Floroid](https://github.com/Yytsi/Floroid) | Python shortened
 | RAD | [https://bitbucket.org/zacharyjtaylor/rad/src/master/](https://bitbucket.org/zacharyjtaylor/rad/src/master/) | Rankless APL
 | Arcyóu | [https://github.com/nazek42/arcyou](https://github.com/nazek42/arcyou) | Lisp like
 | TeaScript | [https://github.com/vihanb/TeaScript](https://github.com/vihanb/TeaScript) | JS inspired, multiple character keywords
 | ESMin | [http://molarmanful.github.io/ESMin](http://molarmanful.github.io/ESMin) | old firefox dependent, fractional bytes, graphics programming, unmaintained, no docs
 | Joe | [https://github.com/JaniM/Joe](https://github.com/JaniM/Joe)
-| bean | [https://github.com/patrickroberts/bean](https://github.com/patrickroberts/bean) | JS, also infix and byte encoded, no docs :(
+| bean | [https://github.com/patrickroberts/bean](https://github.com/patrickroberts/bean) | JS, also infix and byte encoded, no docs
 | Perl1liner | [https://perl1liner.sourceforge.io/](https://perl1liner.sourceforge.io/)
 | enlist | [https://github.com/hyper-neutrino/enlist](https://github.com/hyper-neutrino/enlist) | Jelly but with some 2byte builtins as 1 byte
 | shortC | [https://github.com/aaronryank/shortC](https://github.com/aaronryank/shortC)
@@ -141,8 +145,8 @@ languages in this list are ordered from most relevant as of the latest commit to
 
 | Name | Link | comments
 |------|------|---------
-| PMA/Snails | [https://github.com/feresum/PMA](https://github.com/feresum/PMA) | Regex like matching on 2D areas
 | Retina | [https://github.com/m-ender/retina/wiki/The-Language](https://github.com/m-ender/retina/wiki/The-Language) | .NET regex with iteration and more
+| PMA/Snails | [https://github.com/feresum/PMA](https://github.com/feresum/PMA) | Regex like matching on 2D areas
 | rs | [https://github.com/refi64/rs](https://github.com/refi64/rs) | sed but with more features
 | grime | [https://github.com/iatorm/grime](https://github.com/iatorm/grime) | 2D pattern matching
 | Slip | [https://github.com/Sp3000/Slip](https://github.com/Sp3000/Slip) | 2D regex
