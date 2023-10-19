@@ -82,6 +82,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Pyth | [https://github.com/isaacg1/pyth](https://github.com/isaacg1/pyth) | python shortened, foundational, allows arbitrary python code
 | Fig | https://github.com/Seggan/Fig | 2021, fractional bytes, full ascii
 | Arn | [https://github.com/ZippyMagician/Arn](https://github.com/ZippyMagician/Arn) | 2020, similar to J
+| Rebmu | https://github.com/hostilefork/rebmu | Rebol dialect, undergoing rework
 | Minipyth | https://github.com/isaacg1/minipyth | minimalist pyth with only lowercase letter commands
 | HBL | https://github.com/dloscutoff/hbl/ | 2021, lisp style language based on Dlosc's Thimble
 | Sledgehammer | [https://github.com/tkwa/Sledgehammer](https://github.com/tkwa/Sledgehammer) | braille compressed mathematica
