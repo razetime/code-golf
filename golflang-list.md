@@ -8,9 +8,10 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Vyxal | [https://github.com/vyxal/vyxal](https://github.com/lyxal/vyxal) | Actively maintained, many versions with varying features, many users, flag abuse.
 | Stax | [https://github.com/tomtheisen/stax](https://github.com/tomtheisen/stax) | compression, blocks, strong typing, browser REPL.
 | MATL | https://github.com/lmendo/MATL | ASCII-only, heavily based on MATLAB. Borrows niche functions from the host language.
-| Thunno 2 | https://github.com/Thunno/Thunno2 | 2023, a basic unicode stack language. Incomplete tutoial
+| Thunno 2 | https://github.com/Thunno/Thunno2 | 2023, a basic unicode stack language. Incomplete tutorial
 | Nekomata | https://github.com/AlephAlpha/Nekomata | 2023, Brachylog inspired, REPL with symbol replacement, work in progress.
 | Itr | https://github.com/bsoelch/OneChar.js/blob/main/ItrLang.md | 2023, array language, matrices, rational and complex numbers
+| x7 | https://esolangs.org/wiki/X7 | 2022, unorthodox branching, lenses, ASCII. Primitives subject to change.
 | paradoc | [https://github.com/betaveros/paradoc](https://github.com/betaveros/paradoc) | verbose mode, CJam inspired, used in AOC.
 | CJam | https://sourceforge.net/p/cjam/wiki/Home/ | Golfscript upgrade, ASCII only, foundational.
 | GolfScript | [http://golfscript.com/](http://golfscript.com/) | First golfing language in memory, still competitive but requires ruby-related hacks. ASCII only.
