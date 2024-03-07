@@ -121,6 +121,7 @@ languages in this list are ordered from most relevant as of the latest commit to
 | Myby | https://github.com/ConorOBrien-Foxx/Myby | combines ideas from J and Nibbles
 | m | [https://github.com/DennisMitchell/m](https://github.com/DennisMitchell/m) | Jelly but symbolically oriented, highly outdated
 | Pip | [https://dloscutoff.github.io/pip/](https://dloscutoff.github.io/pip/) | operator precedence, ASCII-only
+| L=tn | https://github.com/Ghilt/Listen | Unique infix language, oeis, semi-golflang
 | Risky | https://github.com/RedwolfPrograms/risky | semi-golflang, unique tacit programming approach
 | Floroid | [https://github.com/Yytsi/Floroid](https://github.com/Yytsi/Floroid) | Python shortened
 | RAD | [https://bitbucket.org/zacharyjtaylor/rad/src/master/](https://bitbucket.org/zacharyjtaylor/rad/src/master/) | Rankless APL
